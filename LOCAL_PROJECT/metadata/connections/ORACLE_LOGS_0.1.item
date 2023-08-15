@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_-JpusDSmEe6nbrWtTQoHJw" name="ORACLE_LOGS" id="_3BVoMDSmEe6nbrWtTQoHJw" label="ORACLE_LOGS" dataPackage="_-LJjgDSmEe6nbrWtTQoHJw" DatabaseType="Oracle with service name" DriverClass="oracle.jdbc.OracleDriver" URL="jdbc:oracle:thin:@(description=(address=(protocol=tcp)(host=localhost)(port=1521))(connect_data=(service_name=XE)))" dbVersionString="ORACLE_18" Port="1521" Username="LOGS" Password="enc:system.encryption.key.v1:7jyLH0eNKIwTmdy8ViGAhIH0XDPiDfpikAS6o8+qdfdnAw==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="XE" SqlSynthax="" StringQuote="" NullChar="" DbmsId="oracle_id" ProductId="ORACLE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="LOGS">
+    <taggedValue xmi:id="_-JpusTSmEe6nbrWtTQoHJw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_-KFMgDSmEe6nbrWtTQoHJw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_-KFzkDSmEe6nbrWtTQoHJw" tag="Status" value=""/>
+    <taggedValue xmi:id="_-KFzkTSmEe6nbrWtTQoHJw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_-KFzkjSmEe6nbrWtTQoHJw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_-KFzkzSmEe6nbrWtTQoHJw" tag="Description" value=""/>
+    <taggedValue xmi:id="_-KFzlDSmEe6nbrWtTQoHJw" tag="Author" value=""/>
+    <taggedValue xmi:id="_-KFzlTSmEe6nbrWtTQoHJw" tag="otherParameter"/>
+    <taggedValue xmi:id="_-KrCYDSmEe6nbrWtTQoHJw" tag="DB ProductName" value="Oracle"/>
+    <taggedValue xmi:id="_-KrCYTSmEe6nbrWtTQoHJw" tag="DB ProductVersion" value="Oracle Database 21c Express Edition Release 21.0.0.0.0 - Production&#xA;Version 21.3.0.0.0"/>
+    <taggedValue xmi:id="_-KrCYjSmEe6nbrWtTQoHJw" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_-JpusjSmEe6nbrWtTQoHJw" key="CONN_PARA_KEY_USERNAME" value="LOGS"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_-LJjgDSmEe6nbrWtTQoHJw" name="LOGS" dataManager="_-JpusDSmEe6nbrWtTQoHJw"/>
+</xmi:XMI>

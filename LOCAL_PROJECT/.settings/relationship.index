@@ -1,0 +1,72 @@
+[ {
+  "baseItem" : {
+    "id" : "_CSICADPNEe6nbrWtTQoHJw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_3BVoMDSmEe6nbrWtTQoHJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7s7k0DV7Ee6nbrWtTQoHJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_8364kDPLEe6nbrWtTQoHJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_cphQwDVzEe6nbrWtTQoHJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dnfxYDVyEe6nbrWtTQoHJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gx5l8DV0Ee6nbrWtTQoHJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_nyI14DVxEe6nbrWtTQoHJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tqEgUDV2Ee6nbrWtTQoHJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7s7k0DV7Ee6nbrWtTQoHJw - MD_LEDGER_ACCOUNT_S",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_cphQwDVzEe6nbrWtTQoHJw - MD_ACCOUNT_D",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dnfxYDVyEe6nbrWtTQoHJw - FT_POSTING_F",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dnfxYDVyEe6nbrWtTQoHJw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gx5l8DV0Ee6nbrWtTQoHJw - MD_CURRENCY_D",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gx5l8DV0Ee6nbrWtTQoHJw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_nyI14DVxEe6nbrWtTQoHJw - FT_BALANCE_F",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tqEgUDV2Ee6nbrWtTQoHJw - MD_EXCHANGE_RATE_D",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

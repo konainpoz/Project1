@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_dnfxYTVyEe6nbrWtTQoHJw" name="FT_POSTING_F" id="_dnfxYDVyEe6nbrWtTQoHJw" dataPackage="_dnfxYjVyEe6nbrWtTQoHJw" Server="Localhost 127.0.0.1" FilePath="C:/Users/Daniil/Desktop/NeoFlex/Talend/Project1/задача_1.1/задача_1.1/ft_posting_f.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Worksheet" firstColumn="2" thousandSeparator="' '" decimalSeparator="','" advancedSpearator="true" selectAllSheets="true" sheetList="Worksheet:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_dnfxYjVyEe6nbrWtTQoHJw" name="default" dataManager="_dnfxYTVyEe6nbrWtTQoHJw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_dnfxYzVyEe6nbrWtTQoHJw" id="_LHZTQDVyEe6nbrWtTQoHJw" label="FT_POSTING_F">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dnfxZDVyEe6nbrWtTQoHJw" label="OPER_DATE" length="-1" talendType="id_Date" key="true" pattern="&quot;dd.MM.yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dnfxZTVyEe6nbrWtTQoHJw" label="CREDIT_ACCOUNT_RK" length="9" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dnfxZjVyEe6nbrWtTQoHJw" label="DEBET_ACCOUNT_RK" length="8" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dnfxZzVyEe6nbrWtTQoHJw" label="CREDIT_AMOUNT" length="8" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dnfxaDVyEe6nbrWtTQoHJw" label="DEBET_AMOUNT" length="8" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

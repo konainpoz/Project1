@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_nyKEADVxEe6nbrWtTQoHJw" name="FT_BALANCE_F" id="_nyI14DVxEe6nbrWtTQoHJw" dataPackage="_nyKEATVxEe6nbrWtTQoHJw" Server="Localhost 127.0.0.1" FilePath="C:/Users/Daniil/Desktop/NeoFlex/Talend/Project1/задача_1.1/задача_1.1/ft_balance_f.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Worksheet" firstColumn="2" thousandSeparator="' '" decimalSeparator="','" advancedSpearator="true" selectAllSheets="true" sheetList="Worksheet:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_nyKEATVxEe6nbrWtTQoHJw" name="default" dataManager="_nyKEADVxEe6nbrWtTQoHJw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_nyKEAjVxEe6nbrWtTQoHJw" id="_7iug8DVwEe6nbrWtTQoHJw" label="FT_BALANCE_F">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nyKEAzVxEe6nbrWtTQoHJw" label="ON_DATE" length="-1" talendType="id_Date" key="true" pattern="&quot;dd.MM.yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nyKEBDVxEe6nbrWtTQoHJw" label="ACCOUNT_RK" length="9" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nyKEBTVxEe6nbrWtTQoHJw" label="CURRENCY_RK" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nyKEBjVxEe6nbrWtTQoHJw" label="BALANCE_OUT" length="-1" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
